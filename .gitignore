@@ -1,0 +1,15 @@
+libros control y modelos - Ad.lnk
+Lab Control
+
+
+# cache de matlab
+slprj
+
+# archivos de autoguardado de matlab
+*.slxc
+*.slx.*
+
+# comprimidos
+
+*.rar
+*.zip
